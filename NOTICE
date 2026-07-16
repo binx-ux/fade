@@ -1,0 +1,14 @@
+# Third-party notices
+
+This repository includes or depends on third-party software and data:
+
+| Component | Location / use | License / terms |
+|-----------|----------------|-----------------|
+| Dear ImGui | `External/ext/imgui` | MIT (see upstream) |
+| nlohmann/json | `External/ext/nlohmann` | MIT (see upstream) |
+| Theo Roblox offsets | Fetched at runtime from offsets.imtheo.lol | Third-party data — see [CREDITS.md](CREDITS.md); subject to Theo’s site terms |
+| RobloxExternalBase (inspiration) | Concepts only | See upstream repo |
+
+Fade itself is MIT — [LICENSE](LICENSE).
+
+Upstream license texts for vendored libraries, if present next to those trees, take precedence for those files.
